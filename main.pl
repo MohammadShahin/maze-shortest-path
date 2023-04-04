@@ -5,6 +5,7 @@
  * will be printed.
  * Use 'test(N, [Xcovid1, Ycovid1], [Xcovid2, Ycovid2], [Xdoc, Ydoc], [Xhome, Yhome], [Xmask, Ymask])' 
  * to run the algorithms with specific data about the objects.
+ bla bla bla
 */
 
  % The positions of the four types of agents are declared as dynamic procedures.
